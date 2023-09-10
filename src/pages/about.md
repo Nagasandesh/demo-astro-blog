@@ -6,6 +6,7 @@ description: "About page"
 
 # About Dani Akash
 
+
 ## Who Am I?
 
 Hello! I'm Dani Akash, a passionate JavaScript Developer based in San Francisco, CA. I love turning complex problems into simple, beautiful, and intuitive solutions. When I'm not coding, you'll find me reading tech blogs, contributing to open-source projects, or exploring the beautiful trails of California.
